@@ -5,6 +5,8 @@
 
 The goal of this assignment is design and implement an asynchronous controller and view using the model that we built in the previous projects.
 
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/6.%20Scroll.png?raw=true)
+
 ## About/Overview
 
 The Graphical Adventure Game Project extends the functionality created with a maze of rows and columns specified by the user where a start point and an end point is selected randomly from the locations in the Maze grid with some added features of having a moving monster, a thief that runs away with the treasure, a pit that the player can fall in and the ability of the player to slay the monster by combating with him hand-to-hand. In addition to the model features there is also an addition of  a graphical user interface that is used to represent the maze and the player along with the obstacle and the collectibles on  the screen.  
@@ -105,25 +107,85 @@ There are also on-screen buttons available for all these actions except for shoo
 There are screenshots of the Graphical Game available in the "screens" folder, alternatively they can also be found in this [Google Drive folder](https://drive.google.com/drive/folders/1sACwgV-bSZJznlF54CpduCG4OHva_VhZ?usp=sharing) inside the res folder which are as follows -
 
 1. GameSettings.png - Demonstrates the settings pane of the game from where the settings of the game can be changed.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/1.%20GameSettings.png?raw=true)
+
 2. RestartGame.png - Shows the JMenu and the options that can be used to restart, reset and exit the game.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/2.%20RestartGame.png?raw=true)
+
 3. InvalidMove.png - Invalid movement of the player, resulting in an error dialog. This can be done by clicking in an opening that does not exist.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/3.%20InvalidMove.png?raw=true)
+
 4. PickedArrow.png - Player picking up an arrow and the view displaying the message.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/4.%20PickedArrow.png?raw=true)
+
 5. PickedTreasure.png - Player picking up a treasure and it getting added to the player's inventory.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/5.%20PickedTreasure.png?raw=true)
+
 6. Scroll.png - Scrolling to view the dungeon completely.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/6.%20Scroll.png?raw=true)
+
 7. WindNearPit.png - The player sensing wind one location away from the pit.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/7.%20WindNearPit.png?raw=true)
+
 8. FellInPit.png -  The player fell in the pit and lost the game.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/8.%20FellInPit.png?raw=true)
+
 9. PitInLocation.png - The first person view of the pit in the player's location.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/9.%20PitInLocation.png?raw=true)
+
 10. ThiefEncountered.png - The player encounters a thief that steals all the treasure.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/10.%20ThiefEncountered.png?raw=true)
+
 11. ThiefRanAwayWithTreasure.png - First person view of the thief escaping with the player's treasure.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/11.%20ThiefRanAwayWithTreasure.png?raw=true)
+
 12. PlayerHandToHandBattle.png - Player encounters the moving monster in a combat.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/12.%20PlayerHandToHandBattle.png?raw=true)
+
 13. PlayerLostBattle.png - Player lost the battle to the Berbalang monster.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/13.%20PlayerLostBattle.png?raw=true)
+
 14. PlayerWonBattle - Player won the battle against the Berbalang monster.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/14.%20PlayerWonBattle.png?raw=true)
+
 15. TerribleSmell.png - Player detecting terrible smell one location away from the Otyugh.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/15.%20TerribleSmell.png?raw=true)
+
 16. ShootHit.png - Player shot an arrow on the Otyugh and heard a great howl.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/16.%20ShootHit.png?raw=true)
+
 17. KilledOtyugh.png - Player killed the Otyugh and reached the end location.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/17.%20KilledOtyugh.png?raw=true)
+
 18. SmellGoneAfterOtyughDead.png - Player cannot detect smell once the Otyugh has been killed.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/18.%20SmellGoneAfterOtyughDead.png?raw=true)
+
 19. PlayerLostOtyugh.png - Player getting killed by the Otyugh Monster with the dialog.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/19.%20PlayerLostOtyugh.png?raw=true)
+
 20. Treasure.png - Player collecting treasure from a cave.
+
+![alt text](https://github.com/anizmo/DisplayOnly/blob/main/screens/20.%20Treasure.png?raw=true)
+
 
 ### Text Based Game
 
