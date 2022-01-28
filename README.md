@@ -1,7 +1,7 @@
 
 
 
-# Graphical Adventure Game
+# Dungeon Maze Graphical Game
 
 The goal of this assignment is design and implement an asynchronous controller and view using the model that we built in the previous projects.
 
